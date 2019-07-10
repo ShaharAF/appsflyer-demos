@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/appsflyer-demos/static/css/main.2cce8147.chunk.css",
+    "main.js": "/appsflyer-demos/static/js/main.c6653487.chunk.js",
+    "main.js.map": "/appsflyer-demos/static/js/main.c6653487.chunk.js.map",
+    "runtime~main.js": "/appsflyer-demos/static/js/runtime~main.8bbc7242.js",
+    "runtime~main.js.map": "/appsflyer-demos/static/js/runtime~main.8bbc7242.js.map",
+    "static/js/2.b41502e9.chunk.js": "/appsflyer-demos/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/appsflyer-demos/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/appsflyer-demos/index.html",
+    "precache-manifest.361b93d01119d1b9b4c5e6a78dddd3b5.js": "/appsflyer-demos/precache-manifest.361b93d01119d1b9b4c5e6a78dddd3b5.js",
+    "service-worker.js": "/appsflyer-demos/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/appsflyer-demos/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/appsflyer-demos/static/media/logo.5d5d9eef.svg"
+  }
+}
