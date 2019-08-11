@@ -7,32 +7,49 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+---
+name: af issue
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+---
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+<!--
+ℹ Please fill out this template when filing an issue.
+All lines beginning with an ℹ symbol instruct you with
+what info we expect.  
+-->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+# Report
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Plugin Version
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ℹ Please replace these two lines with the plugin version.
+e.g. via `4.1.1`
 
-**Additional context**
-Add any other context about the problem here.
+## On what Platform are you having the issue?
+
+ℹ Please replace these two lines with the SDK version.
+e.g. ios and android
+
+## What did you do?
+
+ℹ Please replace these two lines with what you did.  
+e.g. Run `pod install`
+
+## What did you expect to happen?
+
+ℹ Please replace these two lines with what you expected to happen.  
+e.g. Event to be tracked
+
+## What happened instead?
+
+ℹ Please replace these two lines with of what happened instead.  
+e.g. No uninstalls on my dashboard
+
+## Please provide any other relevant information.
+
+ℹ Please replace these two lines with more information.
+e.g. The issue started when we upgraded the plugin to the latest version
